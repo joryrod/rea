@@ -1,4 +1,4 @@
-## Convenciones para nombrar una variable
+Convenciones para nombrar una variable
 
 ## Primera letra en minúscula.
 ## No pueden comenzar por números (Error: Syntax error on token) .
@@ -10,7 +10,7 @@
 
 ## Ejemplos: animalSalvaje, animal_salvaje
 
-## Convenciones para nombrar una clase
+Convenciones para nombrar una clase
 
 ## Primera letra en mayúsculas.
 ## Sustantivos y singular.
@@ -20,14 +20,14 @@
 
 ## Ejemplos: Animal, AnimalSalvaje
 
-## Convenciones para nombrar una interfaz.
+ Convenciones para nombrar una interfaz.
 
 ## Aplican las mismas reglas que para las clases
 ## En algunos casos se adiciona la letra I al inicio del nombre, no es obligatorio.
 
 ## Ejemplos: Felino, AnimalMamífero
 
-## Convenciones para nombrar un método
+Convenciones para nombrar un método
 
 ## Deben comenzar con infinitivos
 ## Notación camel case( primera palabra en minúsculas y las siguientes con la primera letra en mayúsculas)
@@ -36,7 +36,7 @@
 
 ## Ejemplos: obtenerPago(), armar(), insertarPago().
 
-## Convenciones para nombrar constantes:
+Convenciones para nombrar constantes:
 ## Nombre con todas sus letra en mayúsculas y las palabras separadas por guión bajo.
 
 ## Ejemplos: URL_ENDPOINT, SERVER_PORT, IP_ADDRESS.
