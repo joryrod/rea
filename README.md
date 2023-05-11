@@ -1,0 +1,1 @@
+en esta ocasión aprendimos como declarar variables de diferentes maneras viendo las formas permitidas y las no permitidas
